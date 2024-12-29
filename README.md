@@ -44,8 +44,10 @@ This repository contains the source code for portfolio Page. The site is designe
 - **Custom Hooks**: For scroll-based animations and interactivity.
 
 ---
-## Demo video
-[Watch the demo video](public/demo.mkv)
+## Live Demo
+[Click here to view the live demo](https://my-portfolio-ruby-five-26.vercel.app/)
+
+---
 
 ## Setup Instructions
 1. Clone the repository:
